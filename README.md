@@ -1,28 +1,68 @@
-<h1 align="center">Hi 👋, I'm Jayamal Narampanawa</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+Jayamal Narampanawa | Frontend Developer | Mobile App Developer
+<br> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=26&duration=3500&color=7A49FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Jayamal+Narampanawa+👋;Frontend+Developer+from+Sri+Lanka;Mobile+App+Developer+%7C+UI%2FUX+Designer;Crafting+Beautiful+User+Experiences+✨"> </p>
+🟣 📌 Profile Overview
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=jayamalnarampanawa&color=9A4DFF&style=flat-square" />
+Profile Views
+</div>
+🎴 About Me — Card
+<div align="center">
+👨‍💻 Digital Craftsman | UI-focused Developer | App Builder
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayamalnarampanawa&label=Profile%20views&color=0e75b6&style=flat" alt="jayamalnarampanawa" /> </p>
+I’m Jayamal, a passionate developer who turns ideas into beautiful, functional digital experiences.
+I’m obsessed with clean UI, smooth animations, and modern technology.
 
-- 👨‍💻 All of my projects are available at [https://JayamalNarampanawa.github.io/Jayamal-Naramapanwa](https://JayamalNarampanawa.github.io/Jayamal-Naramapanwa)
+💠 Frontend Development (React + UI/UX)
+💠 Android Apps (Java, Kotlin)
+💠 Enterprise Applications (Java Swing + MySQL + Jasper Reports)
+💠 Firebase + Cloud App Development
 
-- 📫 How to reach me **ajnarampanawa@gmail.com**
+💬 Motto: “Minimal UI, Maximum Impact.”
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jayamal narampanawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayamal narampanawa" height="30" width="40" /></a>
-<a href="https://fb.com/jayamal narampanawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jayamal narampanawa" height="30" width="40" /></a>
-<a href="https://instagram.com/jayamal narampanawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jayamal narampanawa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jayamal narampanawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jayamal narampanawa" height="30" width="40" /></a>
-</p>
+</div>
+🎴 Tech Stack — Card
+<div align="center">
+🛠️ Technologies I Use
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,java,kotlin,flutter,firebase,mysql,mongodb,sqlite,git,github,androidstudio,vscode,figma" /> </div>
+🎴 My Projects — Card
+<div align="center">
+🚀 Featured Projects
+Project	Stack	Description
+React Portfolio	React + Firebase	A modern responsive portfolio website
+Fitness Step Counter App	Android (Java)	Smart pedometer with real tracking logic
+Education Management System	Java Swing + MySQL	Enterprise-level desktop app with reporting
+UI Designs & Prototypes	Figma	Clean UI and animated design concepts
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+🔗 Explore everything here:
+👉 https://jayamalnarampanawa.github.io/Jayamal-Naramapanwa
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacoffee.com/jayamalnarampanawa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/jayamalnarampanawa" /></a></p><br><br>
+</div>
+🎴 Connect With Me — Card
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayamalnarampanawa&show_icons=true&locale=en&layout=compact" alt="jayamalnarampanawa" /></p>
+<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=facebook" height="45"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=youtube" height="45"/></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayamalnarampanawa&show_icons=true&locale=en" alt="jayamalnarampanawa" /></p>
+</div>
+🎴 Support — Card
+<div align="center"> <a href="https://buymeacoffee.com/jayamalnarampanawa"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220" /> </a> </div>
+🎴 GitHub Stats — 3D Style Cards
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=jayamalnarampanawa&show_icons=true&theme=tokyonight&border_radius=15&border_color=7A49FF" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayamalnarampanawa&layout=compact&theme=tokyonight&border_radius=15&border_color=7A49FF" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayamalnarampanawa&" alt="jayamalnarampanawa" /></p>
+<br><br>
+
+<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=jayamalnarampanawa&theme=tokyonight&border_radius=15&border=7A49FF" /> </div>
+🎴 Fun Fact — Card
+<div align="center">
+
+✨ I love turning simple concepts into beautiful digital experiences with clean design, animations, and futuristic UI.
+
+💡 Design is not just what it looks like. It’s how it feels.
+
+</div>
+🎴 Signature Motto — Card
+<div align="center">
+⚡ “Code with Purpose. Design with Heart. Build for the Future.” ⚡
+</div>
