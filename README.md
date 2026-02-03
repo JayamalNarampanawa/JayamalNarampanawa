@@ -53,12 +53,12 @@
 </p>
 
 <p align="center">
-  • AgroSmart- Smart Agriculture Monitoring System with Iot and AI analytics (Python/c++/react/tailwind css/Firebase Realtime DB/ Jupyter Notebook...)  
-  • AgriBot - Real-time Agriculture monitoring system (IoT, Javascript, c++, Firebase Real-time Db)
-  • Smart Fitness Step Counter App (Android / Java)  
-  • React Portfolio + Firebase Backend  
-  • Enterprise Education System (Java Swing + MySQL + Jasper)  
-  • UI Designs / Mockups (Figma + Pixel-perfect layouts)
+  • AgroSmart- Smart Agriculture Monitoring System with Iot and AI analytics (Python/c++/react/tailwind css/Firebase Realtime DB/ Jupyter Notebook...) <br>
+  • AgriBot - Real-time Agriculture monitoring system (IoT, Javascript, c++, Firebase Real-time Db)<br>
+  • Smart Fitness Step Counter App (Android / Java)  <br>
+  • React Portfolio + Firebase Backend  <br>
+  • Enterprise Education System (Java Swing + MySQL + Jasper)  <br>
+  • UI Designs / Mockups (Figma + Pixel-perfect layouts)<br>
 </p>
 
 ---
