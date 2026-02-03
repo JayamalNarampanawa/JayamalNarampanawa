@@ -1,5 +1,5 @@
 <h1 align="center">⚡ Jayamal Narampanawa ⚡</h1>
-<h3 align="center">Frontend Developer | Mobile App Developer | UI/UX Enthusiast</h3>
+<h3 align="center">Frontend Developer | Mobile App Developer | UI/UX Enthusiast |Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=3000&pause=700&color=AA7CFF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Jayamal+Narampanawa!+👋;Frontend+Developer+from+Sri+Lanka;Mobile+App+Creator+%7C+UI%2FUX+Designer;Building+Futuristic+Digital+Experiences+🚀;" />
@@ -53,6 +53,8 @@
 </p>
 
 <p align="center">
+  • AgroSmart- Smart Agriculture Monitoring System with Iot and AI analytics (Python/c++/react/tailwind css/Firebase Realtime DB/ Jupyter Notebook...)  
+  • AgriBot - Real-time Agriculture monitoring system (IoT, Javascript, c++, Firebase Real-time Db)
   • Smart Fitness Step Counter App (Android / Java)  
   • React Portfolio + Firebase Backend  
   • Enterprise Education System (Java Swing + MySQL + Jasper)  
