@@ -34,10 +34,10 @@
 
 <h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=facebook" height="45"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=youtube" height="45"/></a>
+  <a href="www.linkedin.com/in/jayamal-narampanawa-b7a0a0127"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="https://web.facebook.com/jayamal.narampanawa/?_rdc=1&_rdr#"><img src="https://skillicons.dev/icons?i=facebook" height="45"/></a>
+  <a href="https://www.instagram.com/jayamal_narampanawa/?hl=en"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
+  <a href="https://www.youtube.com/@jayamalnarampanawa"><img src="https://skillicons.dev/icons?i=youtube" height="45"/></a>
 </p>
 
 ---
