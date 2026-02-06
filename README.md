@@ -63,7 +63,7 @@
 </p>
 
 ---
-<h2 align="center"> Recent ProjectsOn</h2>
+<h2 align="center"> Recent Projects</h2>
 <p align="center">
   🌱 <b>AgroSmart</b> – Smart Agriculture Monitoring System with IoT & AI Analytics  
   (Python, C++, React, Tailwind CSS, Firebase Realtime Database, Jupyter Notebook)<br><br>
