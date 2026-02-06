@@ -1,88 +1,96 @@
-# ⚡ Jayamal Narampanawa
+<!-- ===== PROFILE BANNER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Jayamal%20Narampanawa&fontAlign=50&fontAlignY=40&desc=IoT%20%7C%20Embedded%20Systems%20%7C%20Smart%20Agriculture%20Engineer&descAlign=50&descAlignY=58&color=gradient&customColorList=0,2,3,4,6" />
+</p>
 
-### 🚀 Software Engineer | 🤖 IoT Developer | 📱 Mobile App Developer | 🎨 UI/UX Enthusiast
-
-![Profile Views](https://komarev.com/ghpvc/?username=jayamalnarampanawa&label=Profile%20Views&color=8A2BE2&style=flat)
+<!-- ===== PROFILE VIEWS ===== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 👋 About Me
 
-I’m **Jayamal**, a software engineer focused on building **intelligent systems** that connect  
-**hardware, cloud, and clean user interfaces** into one meaningful solution.
+I’m **Jayamal**, an **IoT & Embedded Systems developer** passionate about building **real-world smart systems** — from **precision agriculture robots** to **cloud-connected sensor networks**.
 
-- 🌱 AI-powered & IoT-based system development  
-- 🧠 Clean architecture & scalable code  
-- 🎨 Minimal, futuristic UI/UX design  
-- 🌍 Solving real-world problems with tech
-
-> **Design clean. Code smart. Build the future.**
+I love combining **hardware + software + cloud + AI** to create systems that *actually solve problems* 🌱⚡
 
 ---
 
-## 🚧 Currently Working On
+## 🧠 What I’m Working On
 
-- 🚜 **AgroSmart** – AI-Based Precision Agriculture Platform  
-- 🤖 **AgriBot** – Real-Time IoT Agriculture Monitoring System  
-- 🎨 Advanced UI systems using React + Tailwind CSS  
+- 🤖 **Agri-Bot** – AI-powered Smart Agriculture Robot  
+- ☁️ Firebase + ESP32 real-time systems  
+- 📊 Web dashboards for IoT analytics  
+- 🌞 Solar-powered embedded solutions  
+- 🧠 Future: AI-driven crop prediction & automation  
 
 ---
 
 ## 🛠 Technologies I Use
 
-### Frontend
-![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap)
+### ⚙️ Embedded & Hardware
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+</p>
 
-### Mobile
-![Mobile](https://skillicons.dev/icons?i=java,kotlin,flutter,androidstudio)
+### ☁️ Cloud & Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+</p>
 
-### Backend & Databases
-![Backend](https://skillicons.dev/icons?i=python,firebase,mysql,mongodb,sqlite)
-
-### Tools & Design
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma)
-
----
-
-## 📂 Featured Projects
-
-### 🌱 AgroSmart  
-_AI-Driven Smart Agriculture Monitoring System_  
-**Tech:** Python, C++, React, Tailwind, Firebase, Jupyter
-
-### 🤖 AgriBot  
-_Real-Time IoT Agriculture Monitoring_  
-**Tech:** ESP32, JavaScript, Firebase Realtime DB
-
-### 📱 Smart Fitness Step Counter  
-_Android Application_  
-**Tech:** Java, Android Studio
-
-### 🏫 Enterprise Education Management System  
-**Tech:** Java Swing, MySQL, Jasper Reports
-
-### 🎨 UI/UX Design Works  
-**Tools:** Figma (High-fidelity mockups)
-
-🔗 **Portfolio:**  
-https://jayamalnarampanawa.github.io/Jayamal-Narampanawa
+### 🌐 Frontend & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 📊 GitHub Analytics (Stable & CSP-Safe)
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jayamal-narampanawa-b7a0a0127)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jayamal_narampanawa)
-[![YouTube](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@jayamalnarampanawa)
+> These are **server-rendered images**, not JavaScript — they WILL work.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
-## 💛 Support My Work
+## ☕ Support My Work
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/jayamalnarampanawa)
+<p align="center">
+  <a href="https://www.buymeacoffee.com/YOUR_BUYMEACOFFEE_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
 
 ---
 
-✨ *Fun fact:* I don’t just write code — I engineer experiences.
+## 🤝 Let’s Connect
 
-⚡ **Code with Purpose. Design with Heart. Build for the Future.**
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Engineering solutions that grow with the future 🌱”</i>
+</p>
