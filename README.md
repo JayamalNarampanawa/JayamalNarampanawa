@@ -75,30 +75,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jayamalnarampanawa&show_icons=true&theme=tokyonight&border_radius=20&border_color=9A4DFF">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayamalnarampanawa&layout=compact&theme=tokyonight&border_radius=20&border_color=9A4DFF">
-</p>
-
-<p align="center">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=jayamalnarampanawa&theme=tokyonight&border_radius=20&border=9A4DFF" />
-</p>
-
-## 📊 GitHub Analytics (Stable & CSP-Safe)
-
-> These are **server-rendered images**, not JavaScript — they WILL work.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayamalnarampanawa&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayamalnarampanawa&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
 
 <p align="center">
   <b>✨ Fun Fact:</b> I love turning simple ideas into beautifully crafted digital experiences with smooth UI and futuristic themes.
