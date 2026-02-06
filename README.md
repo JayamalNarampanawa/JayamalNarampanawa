@@ -55,13 +55,32 @@
   </a>
 </p>
 
+---
+
+<h2 align="center">🧠 Currently Working On</h2>
 <p align="center">
-  • AgroSmart- Smart Agriculture Monitoring System with Iot and AI analytics (Python/c++/react/tailwind css/Firebase Realtime DB/ Jupyter Notebook...) <br>
-  • AgriBot - Real-time Agriculture monitoring system (IoT, Javascript, c++, Firebase Real-time Db)<br>
-  • Smart Fitness Step Counter App (Android / Java)  <br>
-  • React Portfolio + Firebase Backend  <br>
-  • Enterprise Education System (Java Swing + MySQL + Jasper)  <br>
-  • UI Designs / Mockups (Figma + Pixel-perfect layouts)<br>
+  🚜 <b>AgroSmart</b> – AI-Powered Precision Agriculture Platform<br>
+  🤖 <b>AgriBot</b> – Real-Time IoT Agriculture Monitoring System<br>
+  🎨 Advanced UI/UX Systems with React & Tailwind CSS
+</p>
+
+<p align="center">
+  🌱 <b>AgroSmart</b> – Smart Agriculture Monitoring System with IoT & AI Analytics  
+  (Python, C++, React, Tailwind CSS, Firebase Realtime Database, Jupyter Notebook)<br><br>
+
+  🤖 <b>AgriBot</b> – Real-Time Agriculture Monitoring System  
+  (IoT, JavaScript, C++, Firebase Realtime Database)<br><br>
+
+  📱 <b>Smart Fitness Step Counter</b> – Android App  
+  (Java, Android Studio)<br><br>
+
+  🌐 <b>React Portfolio</b> – Firebase-Powered Web Application<br><br>
+
+  🏫 <b>Enterprise Education Management System</b>  
+  (Java Swing, MySQL, Jasper Reports)<br><br>
+
+  🎨 <b>UI/UX Design Projects</b> – Pixel-Perfect Mockups  
+  (Figma)
 </p>
 
 ---
