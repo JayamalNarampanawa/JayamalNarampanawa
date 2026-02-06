@@ -5,7 +5,7 @@
 
 <!-- ===== PROFILE VIEWS ===== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=jayamalnarampanawa&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
 </p>
 
 ---
@@ -58,12 +58,12 @@ I love combining **hardware + software + cloud + AI** to create systems that *ac
 > These are **server-rendered images**, not JavaScript — they WILL work.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jayamalnarampanawa&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayamalnarampanawaE&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayamalnarampanawa&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -71,7 +71,7 @@ I love combining **hardware + software + cloud + AI** to create systems that *ac
 ## ☕ Support My Work
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/YOUR_BUYMEACOFFEE_USERNAME" target="_blank">
+  <a href="https://www.buymeacoffee.com/JayamalNarampanawa" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </p>
@@ -81,7 +81,7 @@ I love combining **hardware + software + cloud + AI** to create systems that *ac
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/jayamalnarampanawaE">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
