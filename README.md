@@ -1,6 +1,6 @@
 <!-- ===== PROFILE BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Jayamal%20Narampanawa&fontAlign=50&fontAlignY=40&desc=IoT%20%7C%20Embedded%20Systems%20%7C%20Smart%20Agriculture%20Engineer&descAlign=50&descAlignY=58&color=gradient&customColorList=0,2,3,4,6" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Jayamal%20Narampanawa&fontAlign=50&&descAlign=50&descAlignY=58&color=gradient&customColorList=0,2,3,4,6" />
 </p>
 <h3 align="center">Frontend Developer | Mobile App Developer | UI/UX Enthusiast |Web Developer</h3>
 
