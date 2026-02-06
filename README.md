@@ -1,179 +1,88 @@
-<!-- ========================================================= -->
-<!-- ================== HERO / BANNER ======================= -->
-<!-- ========================================================= -->
+# ⚡ Jayamal Narampanawa
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:AA7CFF,100:00E5FF&height=180&section=header&text=Jayamal%20Narampanawa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+### 🚀 Software Engineer | 🤖 IoT Developer | 📱 Mobile App Developer | 🎨 UI/UX Enthusiast
 
-<h3 align="center">
-  🚀 Software Engineer | 🤖 Full-Stack IoT Developer | 📱 Mobile App Developer | 🎨 UI/UX Enthusiast
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&duration=2800&pause=600&color=AA7CFF&center=true&vCenter=true&width=760&lines=Building+Smart+Systems+with+IoT+%26+AI;Designing+Clean+and+Futuristic+Interfaces;Engineering+Solutions+That+Matter" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayamalnarampanawa&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=jayamalnarampanawa&label=Profile%20Views&color=8A2BE2&style=flat)
 
 ---
 
-<!-- ========================================================= -->
-<!-- ================== ABOUT ME ============================= -->
-<!-- ========================================================= -->
+## 👋 About Me
 
-<h2>
-  <img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" width="28"/> About Me
-</h2>
+I’m **Jayamal**, a software engineer focused on building **intelligent systems** that connect  
+**hardware, cloud, and clean user interfaces** into one meaningful solution.
 
-I’m **Jayamal**, a software engineer who enjoys **connecting hardware, software, and design** into one intelligent system.
+- 🌱 AI-powered & IoT-based system development  
+- 🧠 Clean architecture & scalable code  
+- 🎨 Minimal, futuristic UI/UX design  
+- 🌍 Solving real-world problems with tech
 
-- ⚡ I build **IoT + AI powered solutions**
-- 🎯 I focus on **clean architecture & maintainable code**
-- 🎨 I design **pixel-perfect, futuristic UI/UX**
-- 🌍 I love solving **real-world problems with technology**
-
-> **“Design clean. Code smart. Build the future.”**
+> **Design clean. Code smart. Build the future.**
 
 ---
 
-<!-- ========================================================= -->
-<!-- ================== DIVIDER ============================== -->
-<!-- ========================================================= -->
-
-<img src="https://user-images.githubusercontent.com/74038190/216658121-6c9c67d4-0c33-4d2a-9d6d-8ddbb7d8b4e7.svg" width="100%" />
-
-<!-- ========================================================= -->
-<!-- ================== CURRENT WORK ========================= -->
-<!-- ========================================================= -->
-
-<h2>
-  <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="28"/> Currently Working On
-</h2>
+## 🚧 Currently Working On
 
 - 🚜 **AgroSmart** – AI-Based Precision Agriculture Platform  
 - 🤖 **AgriBot** – Real-Time IoT Agriculture Monitoring System  
-- 🎨 Advanced UI Systems using **React + Tailwind CSS**
+- 🎨 Advanced UI systems using React + Tailwind CSS  
 
 ---
 
-<!-- ========================================================= -->
-<!-- ================== TECHNOLOGIES ========================= -->
-<!-- ========================================================= -->
+## 🛠 Technologies I Use
 
-<h2>
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="28"/> Technologies I Use
-</h2>
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" /><br>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,flutter,androidstudio" /><br>
-  <img src="https://skillicons.dev/icons?i=python,firebase,mysql,mongodb,sqlite" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+### Mobile
+![Mobile](https://skillicons.dev/icons?i=java,kotlin,flutter,androidstudio)
+
+### Backend & Databases
+![Backend](https://skillicons.dev/icons?i=python,firebase,mysql,mongodb,sqlite)
+
+### Tools & Design
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma)
 
 ---
 
-<!-- ========================================================= -->
-<!-- ================== DIVIDER ============================== -->
-<!-- ========================================================= -->
+## 📂 Featured Projects
 
-<img src="https://user-images.githubusercontent.com/74038190/216658124-4e2d3e32-5a63-49b5-b1b6-7e5a2d2c07e3.svg" width="100%" />
-
-<!-- ========================================================= -->
-<!-- ================== PROJECTS ============================= -->
-<!-- ========================================================= -->
-
-<h2>
-  <img src="https://cdn-icons-png.flaticon.com/512/2920/2920244.png" width="28"/> Featured Projects
-</h2>
-
-🌱 **AgroSmart**  
+### 🌱 AgroSmart  
 _AI-Driven Smart Agriculture Monitoring System_  
-`Python • C++ • React • Tailwind • Firebase • Jupyter`
+**Tech:** Python, C++, React, Tailwind, Firebase, Jupyter
 
-🤖 **AgriBot**  
+### 🤖 AgriBot  
 _Real-Time IoT Agriculture Monitoring_  
-`ESP32 • JavaScript • Firebase Realtime DB`
+**Tech:** ESP32, JavaScript, Firebase Realtime DB
 
-📱 **Smart Fitness Step Counter**  
-_Android Mobile Application_  
-`Java • Android Studio`
+### 📱 Smart Fitness Step Counter  
+_Android Application_  
+**Tech:** Java, Android Studio
 
-🏫 **Enterprise Education Management System**  
-`Java Swing • MySQL • Jasper Reports`
+### 🏫 Enterprise Education Management System  
+**Tech:** Java Swing, MySQL, Jasper Reports
 
-🎨 **UI/UX Design Works**  
-`Figma • High-fidelity Mockups`
+### 🎨 UI/UX Design Works  
+**Tools:** Figma (High-fidelity mockups)
 
-🔗 **Portfolio Website**  
-👉 https://jayamalnarampanawa.github.io/Jayamal-Narampanawa
-
----
-
-<!-- ========================================================= -->
-<!-- ================== GITHUB ANALYTICS ===================== -->
-<!-- ========================================================= -->
-
-<h2>
-  <img src="https://cdn-icons-png.flaticon.com/512/1828/1828673.png" width="28"/> GitHub Analytics
-</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayamalnarampanawa&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayamalnarampanawa&layout=compact&theme=tokyonight&cache_seconds=1800" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jayamalnarampanawa&theme=tokyonight&cache_seconds=1800"/>
-</p>
+🔗 **Portfolio:**  
+https://jayamalnarampanawa.github.io/Jayamal-Narampanawa
 
 ---
 
-<!-- ========================================================= -->
-<!-- ================== CONNECT ============================== -->
-<!-- ========================================================= -->
+## 🌐 Connect With Me
 
-<h2>
-  <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" width="28"/> Connect With Me
-</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jayamal-narampanawa-b7a0a0127">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-  </a>
-  <a href="https://www.instagram.com/jayamal_narampanawa">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-  </a>
-  <a href="https://www.youtube.com/@jayamalnarampanawa">
-    <img src="https://skillicons.dev/icons?i=youtube" height="45"/>
-  </a>
-</p>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jayamal-narampanawa-b7a0a0127)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jayamal_narampanawa)
+[![YouTube](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@jayamalnarampanawa)
 
 ---
 
-<!-- ========================================================= -->
-<!-- ================== SUPPORT ============================== -->
-<!-- ========================================================= -->
+## 💛 Support My Work
 
-<h2>
-  <img src="https://cdn-icons-png.flaticon.com/512/1046/1046750.png" width="28"/> Support My Work
-</h2>
-
-<p align="center">
-  <a href="https://buymeacoffee.com/jayamalnarampanawa">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/>
-  </a>
-</p>
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/jayamalnarampanawa)
 
 ---
 
-<h3 align="center">
-⚡ Code with Purpose. Design with Heart. Build for the Future. ⚡
-</h3>
+✨ *Fun fact:* I don’t just write code — I engineer experiences.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:AA7CFF,100:00E5FF&height=120&section=footer"/>
-</p>
+⚡ **Code with Purpose. Design with Heart. Build for the Future.**
