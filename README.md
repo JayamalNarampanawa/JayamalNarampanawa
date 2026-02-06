@@ -60,10 +60,10 @@
 <h2 align="center">🧠 Currently Working On</h2>
 <p align="center">
   🚜 <b>AgroSmart</b> – AI-Powered Precision Agriculture Platform<br>
-  🤖 <b>AgriBot</b> – Real-Time IoT Agriculture Monitoring System<br>
-  🎨 Advanced UI/UX Systems with React & Tailwind CSS
 </p>
 
+---
+<h2 align="center"> Recent ProjectsOn</h2>
 <p align="center">
   🌱 <b>AgroSmart</b> – Smart Agriculture Monitoring System with IoT & AI Analytics  
   (Python, C++, React, Tailwind CSS, Firebase Realtime Database, Jupyter Notebook)<br><br>
