@@ -65,21 +65,21 @@
 ---
 <h2 align="center"> Recent Projects</h2>
 <p align="center">
-  🌱 <b>AgroSmart</b> – Smart Agriculture Monitoring System with IoT & AI Analytics  
+  <p align="center">🌱 <b>AgroSmart</b> – Smart Agriculture Monitoring System with IoT & AI Analytics  
   (Python, C++, React, Tailwind CSS, Firebase Realtime Database, Jupyter Notebook)<br><br>
 
-  🤖 <b>AgriBot</b> – Real-Time Agriculture Monitoring System  
+  <p align="center">🤖 <b>AgriBot</b> – Real-Time Agriculture Monitoring System  
   (IoT, JavaScript, C++, Firebase Realtime Database)<br><br>
 
-  📱 <b>Smart Fitness Step Counter</b> – Android App  
+  <p align="center">📱 <b>Smart Fitness Step Counter</b> – Android App  
   (Java, Android Studio)<br><br>
 
-  🌐 <b>React Portfolio</b> – Firebase-Powered Web Application<br><br>
+  <p align="center">🌐 <b>React Portfolio</b> – Firebase-Powered Web Application<br><br>
 
-  🏫 <b>Enterprise Education Management System</b>  
+ <p align="center"> 🏫 <b>Enterprise Education Management System</b>  
   (Java Swing, MySQL, Jasper Reports)<br><br>
 
-  🎨 <b>UI/UX Design Projects</b> – Pixel-Perfect Mockups  
+ <p align="center"> 🎨 <b>UI/UX Design Projects</b> – Pixel-Perfect Mockups  
   (Figma)
 </p>
 
