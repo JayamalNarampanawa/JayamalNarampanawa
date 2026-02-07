@@ -95,6 +95,28 @@
 ---
 
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JayamalNarampanawa&theme=react&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JayamalNarampanawa&show_icons=true&theme=react&hide_border=true&title_color=00e5ff&icon_color=00e5ff" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJayamalNarampanawa&layout=compact&theme=react&hide_border=true&title_color=00e5ff" width="40%">
+</p>
+
+---
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayamalNarampanawa&theme=react-dark&bg_color=0D1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+
 <p align="center">
   <b>✨ Fun Fact:</b> I love turning simple ideas into beautifully crafted digital experiences with smooth UI and futuristic themes.
 </p>
