@@ -50,7 +50,7 @@
 <p align="center">
   🔗 <b>All My Projects:</b>  
   <br>
-  <a href="https://jayamalnarampanawa.netlify.app/">
+  <a href="https://jayamal-narampanawa.onrender.com">
     https://jayamalnarampanawa.netlify.app/
   </a>
 </p>
