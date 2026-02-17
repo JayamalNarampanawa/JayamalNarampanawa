@@ -51,7 +51,7 @@
   🔗 <b>All My Projects:</b>  
   <br>
   <a href="https://jayamal-narampanawa.onrender.com/">
-    https://jayamalnarampanawa.netlify.app/
+    https://jayamalnarampanawa.netlify.app/](https://jayamal-narampanawa.onrender.com/
   </a>
 </p>
 
