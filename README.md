@@ -210,21 +210,6 @@
 </p>
 
 ---
-
-<!-- ==================== GITHUB TROPHIES ==================== -->
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy-kannan.vercel.app/?username=JayamalNarampanawa&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"
-    width="100%"
-    alt="Jayamal Narampanawa GitHub Achievements"
-  />
-</p>
-
----
-
 <!-- ==================== GITHUB STATS ==================== -->
 
 <h2 align="center">📊 GitHub Intelligence Center</h2>
