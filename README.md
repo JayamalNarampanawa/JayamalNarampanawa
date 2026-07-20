@@ -5,6 +5,7 @@
 <!--              FUTURISTIC GITHUB PROFILE                    -->
 
 <!-- ========================================================= -->
+
 <!-- ==================== HERO BANNER ==================== -->
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Jayamal%20Narampanawa&fontAlign=50&&descAlign=50&descAlignY=58&color=gradient&customColorList=0,2,3,4,6" /> </p>
@@ -39,7 +40,7 @@
 <h1 align="center">👋 About Me</h1>
 
 <p align="center">
-  <b>Software Engineering Student • Developer • AI & IoT Builder • UI/UX Enthusiast • Musical Artist</b>
+  <b>Software Engineering Undergraduate • Web Developer • AI & IoT Builder • UI/UX Enthusiast </b>
 </p>
 
 <p align="center">
@@ -90,7 +91,12 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,sqlite,docker,git,github,gitlab,figma,vscode,androidstudio,postman,vite&perline=7" />
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,sqlite,docker,git,github,gitlab,figma,vscode,androidstudio,postman,vite,vercel&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Lovable-AI%20App%20Builder-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vercel-Deployment%20%26%20Hosting-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 <p align="center">
@@ -161,11 +167,11 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">🌍 ImpactEcho</h3>
+<h3 align="center">💼 Remote Job Optimizer</h3>
 
-<p align="center"> A modern volunteer-focused social ecosystem designed to connect people, organizations and meaningful social initiatives. </p>
+<p align="center"> A modern web application designed to help optimize the remote job search experience and improve the process of discovering and managing relevant remote job opportunities. </p>
 
-<p align="center"> <b>Next.js • TypeScript • NestJS • PostgreSQL</b> </p>
+<p align="center"> <b>React • Node.js • Express • Full-Stack Development</b> </p>
 
 </td>
 
@@ -211,8 +217,9 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=JayamalNarampanawa&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"
+    src="https://github-profile-trophy-kannan.vercel.app/?username=JayamalNarampanawa&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"
     width="100%"
+    alt="Jayamal Narampanawa GitHub Achievements"
   />
 </p>
 
@@ -249,6 +256,7 @@
 </table>
 
 ---
+
 
 <!-- ==================== CONTRIBUTION MATRIX ==================== -->
 
