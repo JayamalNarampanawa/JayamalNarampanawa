@@ -134,14 +134,6 @@
 
 ---
 
-## 📈 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayamalNarampanawa&theme=react-dark&bg_color=0D1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
-
----
-
 ## 🦊 GitLab Activity
 
 <p align="center">
@@ -167,13 +159,23 @@
   and SVG generator are added to this repository.
 -->
 
-
+<p align="center">
+  <img src="./assets/gitlab-contribution-graph.svg" alt="GitLab Contribution Graph" width="100%" />
+</p>
 
 <p align="center">
   <sub>
     🔵 GitLab development activity from
     <a href="https://gitlab.com/JayamalNarampanawa">@JayamalNarampanawa</a>
   </sub>
+</p>
+
+---
+
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayamalNarampanawa&theme=react-dark&bg_color=0D1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
