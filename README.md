@@ -180,6 +180,16 @@
 
 ---
 
+<h2 align="center">📈 GitLab Contribution Graph</h2>
+
+<p align="center">
+  <img
+    src="./assets/gitlab-activity-graph.svg"
+    alt="GitLab Contribution Activity Graph"
+    width="100%"
+  />
+</p>
+
 <p align="center">
   <b>✨ Fun Fact:</b>
   I love turning simple ideas into beautifully crafted digital experiences with smooth UI and futuristic themes.
