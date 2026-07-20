@@ -5,55 +5,46 @@
 <!--              FUTURISTIC GITHUB PROFILE                    -->
 
 <!-- ========================================================= -->
-
 <!-- ==================== HERO BANNER ==================== -->
 
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Jayamal%20Narampanawa&fontAlign=50&&descAlign=50&descAlignY=58&color=gradient&customColorList=0,2,3,4,6" /> </p>
+
+<p align="center">
+  <a href="https://github.com/JayamalNarampanawa">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=27&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&height=80&lines=%E2%9A%A1+WELCOME+TO+MY+DIGITAL+UNIVERSE+%E2%9A%A1;%F0%9F%91%8B+Hey%2C+I'm+Jayamal+Narampanawa;%F0%9F%92%BB+Software+Engineer+%26+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+Machine+Learning+Explorer;%F0%9F%8C%90+IoT+%26+Intelligent+Systems+Builder;%F0%9F%93%B1+Mobile+Application+Developer;%F0%9F%8E%A8+UI%2FUX+%26+Futuristic+Interface+Enthusiast;%F0%9F%8E%B5+Musical+Artist+%26+Vocalist;%F0%9F%9A%80+Building+Technology+That+Creates+Impact"
+      alt="Animated Introduction"
+    />
+  </a>
+</p>
+
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00E5FF,50:7C3AED,100:FF00FF&text=JAYAMAL%20NARAMPANAWA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20IoT%20Builder%20%7C%20Creative%20Technologist&descAlignY=58&animation=fadeIn"
-    width="100%"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=500&color=AA7CFF&center=true&vCenter=true&repeat=true&width=750&height=40&lines=%3C+CODE+%2F%3E+%E2%80%A2+AI+%E2%80%A2+IoT+%E2%80%A2+DESIGN+%E2%80%A2+INNOVATION+%E2%80%A2+MUSIC"
+    alt="Technology Banner"
   />
 </p>
 
-<!-- ==================== ANIMATED INTRO ==================== -->
-
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&repeat=true&width=850&height=70&lines=Hey%2C+I'm+Jayamal+Narampanawa+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%92%BB;Frontend+%26+Full-Stack+Developer+%F0%9F%9A%80;AI+%26+IoT+Project+Builder+%F0%9F%A4%96;Mobile+App+Developer+%F0%9F%93%B1;UI%2FUX+%26+Futuristic+Interface+Enthusiast+%E2%9C%A8;Musical+Artist+%26+Vocalist+%F0%9F%8E%B5;Building+Technology+With+Real-World+Impact+%F0%9F%8C%8D"
-    alt="Typing Animation"
-  />
-</p>
-
-<!-- ==================== PROFILE BADGES ==================== -->
-
-<p align="center">
-
   <img src="https://komarev.com/ghpvc/?username=JayamalNarampanawa&label=PROFILE+VIEWS&style=for-the-badge&color=7C3AED" />
-
   <img src="https://img.shields.io/github/followers/JayamalNarampanawa?label=FOLLOWERS&style=for-the-badge&logo=github&color=00E5FF" />
-
   <img src="https://img.shields.io/badge/LOCATION-SRI%20LANKA-FF00FF?style=for-the-badge&logo=googlemaps&logoColor=white" />
-
   <img src="https://img.shields.io/badge/FOCUS-BUILDING%20THE%20FUTURE-7C3AED?style=for-the-badge" />
-
 </p>
 
-<br>
+---
 
 <!-- ==================== ABOUT ME ==================== -->
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  About Me
-</h1>
+<h1 align="center">👋 About Me</h1>
 
 <p align="center">
-  <b>Software Engineer • Developer • AI & IoT Builder • UI/UX Enthusiast • Web Developer </b>
+  <b>Software Engineering Student • Developer • AI & IoT Builder • UI/UX Enthusiast • Musical Artist</b>
 </p>
 
 <p align="center">
   I'm <b>Jayamal Narampanawa</b>, a Software Engineering student from Sri Lanka passionate about building
-  intelligent, visually stunning, and meaningful digital products.
+  intelligent, visually striking, and meaningful digital products.
   <br><br>
   My work spans <b>frontend engineering</b>, <b>full-stack development</b>,
   <b>mobile applications</b>, <b>AI/ML</b>, <b>IoT systems</b>,
@@ -64,25 +55,19 @@
   to social platforms, intelligent dashboards, and immersive digital experiences.
 </p>
 
-<br>
-
 <p align="center">
-
-🔭 Building intelligent software with real-world impact
-
-🌱 Exploring AI, Machine Learning, GIS, IoT & intelligent systems
-
-🎨 Passionate about futuristic, minimalist and immersive UI/UX
-
-💻 Working across GitHub and GitLab ecosystems
-
-🎵 Musical artist, vocalist and technology enthusiast
-
-⚡ Always learning. Always building. Always evolving.
-
+  🔭 Building intelligent software with real-world impact
+  <br>
+  🌱 Exploring AI, Machine Learning, GIS, IoT & intelligent systems
+  <br>
+  🎨 Passionate about futuristic, minimalist and immersive UI/UX
+  <br>
+  💻 Working across GitHub and GitLab ecosystems
+  <br>
+  🎵 Musical artist, vocalist and technology enthusiast
+  <br>
+  ⚡ Always learning. Always building. Always evolving.
 </p>
-
-<br>
 
 <p align="center">
   <img
@@ -92,15 +77,13 @@
 
 ---
 
-<!-- ==================== TECH ARSENAL ==================== -->
+<!-- ==================== TECH STACK ==================== -->
 
 <h2 align="center">⚡ Technology Arsenal</h2>
 
 <p align="center">
   <i>Languages • Frameworks • Platforms • Tools</i>
 </p>
-
-<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,nestjs,python,java,kotlin,flutter,dart,php,laravel&perline=9" />
@@ -110,26 +93,16 @@
   <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,sqlite,docker,git,github,gitlab,figma,vscode,androidstudio,postman,vite&perline=7" />
 </p>
 
-<br>
-
 <p align="center">
-
   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-00E5FF?style=for-the-badge" />
-
   <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20NestJS%20%7C%20Laravel-7C3AED?style=for-the-badge" />
-
   <img src="https://img.shields.io/badge/Mobile-Flutter%20%7C%20Android-00C853?style=for-the-badge" />
-
 </p>
 
 <p align="center">
-
   <img src="https://img.shields.io/badge/AI%20%26%20ML-Python%20%7C%20TensorFlow%20%7C%20ML-FF00FF?style=for-the-badge" />
-
   <img src="https://img.shields.io/badge/IoT-ESP32%20%7C%20Firebase-FF6D00?style=for-the-badge" />
-
   <img src="https://img.shields.io/badge/UI%2FUX-Figma%20%7C%20Modern%20Design-BD00FF?style=for-the-badge" />
-
 </p>
 
 ---
@@ -141,8 +114,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00E5FF&center=true&width=800&lines=Building+AI-powered+systems+with+real-world+impact...;Exploring+AI+%2B+IoT+%2B+GIS+%2B+Explainable+Intelligence...;Turning+research+ideas+into+production-ready+products..." />
 </p>
-
-<br>
 
 <p align="center">
   🚜 <b>AgroSmart 2.0</b> — AI-Powered Smart Agriculture Intelligence Platform
@@ -168,15 +139,9 @@
 
 <h3 align="center">🌱 AgroSmart 2.0</h3>
 
-<p align="center">
-AI-powered precision agriculture platform combining IoT monitoring,
-machine learning, explainable AI, SCADA, Digital Twin technology,
-AR visualization and intelligent crop recommendations.
-</p>
+<p align="center"> AI-powered precision agriculture platform combining IoT monitoring, machine learning, explainable AI, SCADA, Digital Twin technology, AR visualization and intelligent crop recommendations. </p>
 
-<p align="center">
-<b>React • Firebase • Python • ML • IoT • ESP32 • Flutter • TensorFlow</b>
-</p>
+<p align="center"> <b>React • Firebase • Python • ML • IoT • ESP32 • Flutter • TensorFlow</b> </p>
 
 </td>
 
@@ -184,15 +149,9 @@ AR visualization and intelligent crop recommendations.
 
 <h3 align="center">🛰️ ReBorn Sentinel</h3>
 
-<p align="center">
-AI-powered landslide risk intelligence and early warning platform
-for Sri Lanka integrating weather, GIS, terrain,
-satellite and geological intelligence.
-</p>
+<p align="center"> AI-powered landslide risk intelligence and early warning platform for Sri Lanka integrating weather, GIS, terrain, satellite and geological intelligence. </p>
 
-<p align="center">
-<b>Next.js • GIS • AI/ML • PostgreSQL • Python • XAI</b>
-</p>
+<p align="center"> <b>Next.js • GIS • AI/ML • PostgreSQL • Python • XAI</b> </p>
 
 </td>
 
@@ -204,14 +163,9 @@ satellite and geological intelligence.
 
 <h3 align="center">🌍 ImpactEcho</h3>
 
-<p align="center">
-A modern volunteer-focused social ecosystem designed to connect
-people, organizations and meaningful social initiatives.
-</p>
+<p align="center"> A modern volunteer-focused social ecosystem designed to connect people, organizations and meaningful social initiatives. </p>
 
-<p align="center">
-<b>Next.js • TypeScript • NestJS • PostgreSQL</b>
-</p>
+<p align="center"> <b>Next.js • TypeScript • NestJS • PostgreSQL</b> </p>
 
 </td>
 
@@ -219,15 +173,9 @@ people, organizations and meaningful social initiatives.
 
 <h3 align="center">🚚 RouteXpress</h3>
 
-<p align="center">
-Delivery route planning and order management platform
-implementing Dijkstra shortest-path routing,
-queues, stacks, searching and sorting algorithms.
-</p>
+<p align="center"> Delivery route planning and order management platform implementing Dijkstra shortest-path routing, queues, stacks, searching and sorting algorithms. </p>
 
-<p align="center">
-<b>React • Node.js • MongoDB • Algorithms • Maps</b>
-</p>
+<p align="center"> <b>React • Node.js • MongoDB • Algorithms • Maps</b> </p>
 
 </td>
 
@@ -237,33 +185,22 @@ queues, stacks, searching and sorting algorithms.
 
 <br>
 
-<p align="center">
-  <a href="https://jayamal-narampanawa.onrender.com/">
-    <img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20FULL%20PORTFOLIO-7C3AED?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
-
----
-
+<p align="center"> <a href="https://jayamal-narampanawa.onrender.com/"> <img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20FULL%20PORTFOLIO-7C3AED?style=for-the-badge&logoColor=white" /> </a> </p>
 <!-- ==================== DEVELOPMENT ECOSYSTEM ==================== -->
 
 <h2 align="center">🌐 My Development Ecosystem</h2>
 
 <p align="center">
-  Building and collaborating across both
-  <b>GitHub</b> and <b>GitLab</b>.
+  Building and collaborating across both <b>GitHub</b> and <b>GitLab</b>.
 </p>
 
 <p align="center">
-
   <a href="https://github.com/JayamalNarampanawa">
     <img src="https://img.shields.io/badge/GitHub-JayamalNarampanawa-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
   <a href="https://gitlab.com/JayamalNarampanawa">
-    <img src="https://img.shields.io/badge/GitLab-JayamalNarampanawa-1F75FE?style=for-the-badge&logo=gitlab&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitLab-JayamalNarampanawa-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
-
 </p>
 
 ---
@@ -292,27 +229,28 @@ queues, stacks, searching and sorting algorithms.
   />
 </p>
 
-<p align="center">
-
-<img
- src="https://github-readme-stats.vercel.app/api?username=JayamalNarampanawa&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=AA7CFF&text_color=FFFFFF&rank_icon=github"
- width="49%"
-/>
-
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayamalNarampanawa&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=FFFFFF"
- width="41%"
-/>
-
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=JayamalNarampanawa&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=AA7CFF&text_color=FFFFFF&rank_icon=github"
+        width="100%"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayamalNarampanawa&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=FFFFFF"
+        width="100%"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- ========================================================= -->
-
-<!--                CONTRIBUTION GRAPHS                         -->
-
-<!-- ========================================================= -->
+<!-- ==================== CONTRIBUTION MATRIX ==================== -->
 
 <h1 align="center">📊 Contribution Matrix</h1>
 
@@ -321,8 +259,6 @@ queues, stacks, searching and sorting algorithms.
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
   <b>🔵 GitLab Contributions</b>
 </p>
-
-<!-- ==================== GITHUB CONTRIBUTION GRAPH ==================== -->
 
 <h2 align="center">🟢 GitHub Contribution Graph</h2>
 
@@ -341,8 +277,6 @@ queues, stacks, searching and sorting algorithms.
 </p>
 
 <br>
-
-<!-- ==================== GITLAB CONTRIBUTION GRAPH ==================== -->
 
 <h2 align="center">🔵 GitLab Contribution Graph</h2>
 
@@ -363,15 +297,9 @@ queues, stacks, searching and sorting algorithms.
 
 ---
 
-<!-- ========================================================= -->
-
-<!--                    ACTIVITY GRAPHS                         -->
-
-<!-- ========================================================= -->
+<!-- ==================== ACTIVITY GRAPHS ==================== -->
 
 <h1 align="center">⚡ Development Activity Timeline</h1>
-
-<!-- ==================== GITHUB ACTIVITY GRAPH ==================== -->
 
 <h2 align="center">🟢 GitHub Activity Graph</h2>
 
@@ -385,8 +313,6 @@ queues, stacks, searching and sorting algorithms.
 
 <br>
 
-<!-- ==================== GITLAB ACTIVITY GRAPH ==================== -->
-
 <h2 align="center">🔵 GitLab Activity Graph</h2>
 
 <p align="center">
@@ -398,46 +324,56 @@ queues, stacks, searching and sorting algorithms.
 </p>
 
 <p align="center">
-
-🟢 <b>GitHub</b> — Public & eligible repository contribution activity
-
-🔵 <b>GitLab</b> — API-visible development activity
-
+  🟢 <b>GitHub</b> — Public & eligible repository contribution activity
+  <br>
+  🔵 <b>GitLab</b> — API-visible development activity
 </p>
 
 ---
 
-<!-- ==================== PROFILE SUMMARY ==================== -->
+<!-- ==================== DEVELOPER ANALYTICS ==================== -->
 
 <h2 align="center">🧬 Developer Analytics</h2>
 
 <p align="center">
-
-<img
- src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JayamalNarampanawa&theme=github_dark"
- width="47%"
-/>
-
-<img
- src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JayamalNarampanawa&theme=github_dark&utcOffset=5.5"
- width="47%"
-/>
-
+  <i>A deeper look into my GitHub development ecosystem</i>
 </p>
 
-<p align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JayamalNarampanawa&theme=github_dark"
+        width="100%"
+        alt="GitHub Statistics"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JayamalNarampanawa&theme=github_dark&utcOffset=5.5"
+        width="100%"
+        alt="GitHub Productive Time"
+      />
+    </td>
+  </tr>
 
-<img
- src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayamalNarampanawa&theme=github_dark"
- width="47%"
-/>
-
-<img
- src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JayamalNarampanawa&theme=github_dark"
- width="47%"
-/>
-
-</p>
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayamalNarampanawa&theme=github_dark"
+        width="100%"
+        alt="Repositories Per Language"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JayamalNarampanawa&theme=github_dark"
+        width="100%"
+        alt="Most Commit Language"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -446,18 +382,13 @@ queues, stacks, searching and sorting algorithms.
 <h2 align="center">🎵 Beyond The Code</h2>
 
 <p align="center">
-
-When I'm not building software, I'm exploring another world of creativity — <b>music</b>.
-
-<br><br>
-
-I'm a musical artist and vocalist who believes technology and art share
-the same foundation:
-
-<br><br>
-
-<b>Creativity. Emotion. Innovation.</b>
-
+  When I'm not building software, I'm exploring another world of creativity —
+  <b>music</b>.
+  <br><br>
+  I'm a musical artist and vocalist who believes technology and art share
+  the same foundation:
+  <br><br>
+  <b>Creativity. Emotion. Innovation.</b>
 </p>
 
 <p align="center">
@@ -473,45 +404,24 @@ the same foundation:
 <h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/jayamal-narampanawa-b7a0a0127">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-  </a>
-
-  
-
-  <a href="https://github.com/JayamalNarampanawa">
-    <img src="https://skillicons.dev/icons?i=github" height="48"/>
-  </a>
-
-  
-
-  <a href="https://gitlab.com/JayamalNarampanawa">
-    <img src="https://skillicons.dev/icons?i=gitlab" height="48"/>
-  </a>
-
-  
-
-  <a href="https://www.instagram.com/jayamal_narampanawa/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="48"/>
-  </a>
-
-  
-
-  <a href="https://www.youtube.com/@jayamalnarampanawa">
-    <img src="https://skillicons.dev/icons?i=youtube" height="48"/>
-  </a>
-
+  <i>Let's connect, collaborate and build something extraordinary.</i>
 </p>
 
-<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jayamal-narampanawa-b7a0a0127"><img src="https://img.shields.io/badge/LinkedIn-Jayamal%20Narampanawa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/JayamalNarampanawa"><img src="https://img.shields.io/badge/GitHub-JayamalNarampanawa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://gitlab.com/JayamalNarampanawa"><img src="https://img.shields.io/badge/GitLab-JayamalNarampanawa-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
+  <a href="https://www.instagram.com/jayamal_narampanawa/"><img src="https://img.shields.io/badge/Instagram-@jayamal__narampanawa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.youtube.com/@jayamalnarampanawa"><img src="https://img.shields.io/badge/YouTube-Jayamal%20Narampanawa-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://jayamal-narampanawa.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/></a>
+</p>
 
 <p align="center">
-
-  <a href="https://jayamal-narampanawa.onrender.com/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20My%20Digital%20World-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
-  </a>
-
+  <a href="https://www.linkedin.com/in/jayamal-narampanawa-b7a0a0127"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/JayamalNarampanawa"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://gitlab.com/JayamalNarampanawa"><img src="https://skillicons.dev/icons?i=gitlab" height="48" alt="GitLab"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/jayamal_narampanawa/"><img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@jayamalnarampanawa"><img src="https://skillicons.dev/icons?i=youtube" height="48" alt="YouTube"/></a>
 </p>
 
 ---
@@ -532,7 +442,7 @@ the same foundation:
 
 ---
 
-<!-- ==================== RANDOM DEV QUOTE ==================== -->
+<!-- ==================== DEV QUOTE ==================== -->
 
 <h2 align="center">💭 Developer Mindset</h2>
 
@@ -562,8 +472,6 @@ the same foundation:
   <br>
   <sub>Stay curious. Keep building. Never stop creating.</sub>
 </p>
-
-<!-- ==================== FOOTER ==================== -->
 
 <p align="center">
   <img
