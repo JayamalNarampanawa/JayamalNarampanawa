@@ -1,0 +1,816 @@
+
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="900"
+    height="320"
+    viewBox="0 0 900 320"
+>
+
+<defs>
+
+<linearGradient
+    id="areaGradient"
+    x1="0"
+    y1="0"
+    x2="0"
+    y2="1"
+>
+
+<stop
+    offset="0%"
+    stop-color="#1E88E5"
+    stop-opacity="0.45"
+/>
+
+<stop
+    offset="100%"
+    stop-color="#1E88E5"
+    stop-opacity="0"
+/>
+
+</linearGradient>
+
+</defs>
+
+
+<rect
+    width="100%"
+    height="100%"
+    rx="12"
+    fill="#0D1117"
+/>
+
+
+<text
+    x="25"
+    y="30"
+    fill="#E6EDF3"
+    font-family="Segoe UI, Arial"
+    font-size="18"
+    font-weight="600"
+>
+GitLab Contribution Activity
+</text>
+
+
+<text
+    x="25"
+    y="48"
+    fill="#8B949E"
+    font-family="Segoe UI, Arial"
+    font-size="11"
+>
+Activity trend over the last 90 days
+</text>
+
+
+
+        <line
+            x1="55"
+            y1="55.0"
+            x2="875"
+            y2="55.0"
+            stroke="#21262D"
+            stroke-width="1"
+        />
+        
+        <line
+            x1="55"
+            y1="107.5"
+            x2="875"
+            y2="107.5"
+            stroke="#21262D"
+            stroke-width="1"
+        />
+        
+        <line
+            x1="55"
+            y1="160.0"
+            x2="875"
+            y2="160.0"
+            stroke="#21262D"
+            stroke-width="1"
+        />
+        
+        <line
+            x1="55"
+            y1="212.5"
+            x2="875"
+            y2="212.5"
+            stroke="#21262D"
+            stroke-width="1"
+        />
+        
+        <line
+            x1="55"
+            y1="265.0"
+            x2="875"
+            y2="265.0"
+            stroke="#21262D"
+            stroke-width="1"
+        />
+        
+
+
+<polygon
+    points="55,265 55.00,265.00 64.21,265.00 73.43,265.00 82.64,265.00 91.85,265.00 101.07,265.00 110.28,265.00 119.49,265.00 128.71,265.00 137.92,265.00 147.13,265.00 156.35,265.00 165.56,265.00 174.78,265.00 183.99,171.67 193.20,210.56 202.42,148.33 211.63,241.67 220.84,265.00 230.06,218.33 239.27,226.11 248.48,249.44 257.70,249.44 266.91,210.56 276.12,265.00 285.34,265.00 294.55,202.78 303.76,210.56 312.98,187.22 322.19,195.00 331.40,218.33 340.62,265.00 349.83,265.00 359.04,241.67 368.26,241.67 377.47,257.22 386.69,249.44 395.90,249.44 405.11,265.00 414.33,265.00 423.54,257.22 432.75,226.11 441.97,249.44 451.18,218.33 460.39,241.67 469.61,265.00 478.82,265.00 488.03,210.56 497.25,210.56 506.46,249.44 515.67,210.56 524.89,218.33 534.10,257.22 543.31,265.00 552.53,233.89 561.74,241.67 570.96,218.33 580.17,241.67 589.38,226.11 598.60,249.44 607.81,265.00 617.02,249.44 626.24,241.67 635.45,241.67 644.66,210.56 653.88,241.67 663.09,233.89 672.30,249.44 681.52,265.00 690.73,241.67 699.94,265.00 709.16,226.11 718.37,257.22 727.58,265.00 736.80,265.00 746.01,249.44 755.22,265.00 764.44,249.44 773.65,257.22 782.87,265.00 792.08,265.00 801.29,265.00 810.51,233.89 819.72,257.22 828.93,249.44 838.15,249.44 847.36,233.89 856.57,265.00 865.79,265.00 875.00,55.00 875,265"
+    fill="url(#areaGradient)"
+/>
+
+
+<polyline
+    points="55.00,265.00 64.21,265.00 73.43,265.00 82.64,265.00 91.85,265.00 101.07,265.00 110.28,265.00 119.49,265.00 128.71,265.00 137.92,265.00 147.13,265.00 156.35,265.00 165.56,265.00 174.78,265.00 183.99,171.67 193.20,210.56 202.42,148.33 211.63,241.67 220.84,265.00 230.06,218.33 239.27,226.11 248.48,249.44 257.70,249.44 266.91,210.56 276.12,265.00 285.34,265.00 294.55,202.78 303.76,210.56 312.98,187.22 322.19,195.00 331.40,218.33 340.62,265.00 349.83,265.00 359.04,241.67 368.26,241.67 377.47,257.22 386.69,249.44 395.90,249.44 405.11,265.00 414.33,265.00 423.54,257.22 432.75,226.11 441.97,249.44 451.18,218.33 460.39,241.67 469.61,265.00 478.82,265.00 488.03,210.56 497.25,210.56 506.46,249.44 515.67,210.56 524.89,218.33 534.10,257.22 543.31,265.00 552.53,233.89 561.74,241.67 570.96,218.33 580.17,241.67 589.38,226.11 598.60,249.44 607.81,265.00 617.02,249.44 626.24,241.67 635.45,241.67 644.66,210.56 653.88,241.67 663.09,233.89 672.30,249.44 681.52,265.00 690.73,241.67 699.94,265.00 709.16,226.11 718.37,257.22 727.58,265.00 736.80,265.00 746.01,249.44 755.22,265.00 764.44,249.44 773.65,257.22 782.87,265.00 792.08,265.00 801.29,265.00 810.51,233.89 819.72,257.22 828.93,249.44 838.15,249.44 847.36,233.89 856.57,265.00 865.79,265.00 875.00,55.00"
+    fill="none"
+    stroke="#1E88E5"
+    stroke-width="3"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+/>
+
+
+
+            <circle
+                cx="183.99"
+                cy="171.67"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-05-06: 12
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="193.20"
+                cy="210.56"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-05-07: 7
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="202.42"
+                cy="148.33"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-05-08: 15
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="211.63"
+                cy="241.67"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-05-09: 3
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="230.06"
+                cy="218.33"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-05-11: 6
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="239.27"
+                cy="226.11"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-05-12: 5
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="248.48"
+                cy="249.44"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-05-13: 2
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="257.70"
+                cy="249.44"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-05-14: 2
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="266.91"
+                cy="210.56"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-05-15: 7
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="294.55"
+                cy="202.78"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-05-18: 8
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="303.76"
+                cy="210.56"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-05-19: 7
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="312.98"
+                cy="187.22"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-05-20: 10
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="322.19"
+                cy="195.00"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-05-21: 9
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="331.40"
+                cy="218.33"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-05-22: 6
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="359.04"
+                cy="241.67"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-05-25: 3
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="368.26"
+                cy="241.67"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-05-26: 3
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="377.47"
+                cy="257.22"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-05-27: 1
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="386.69"
+                cy="249.44"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-05-28: 2
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="395.90"
+                cy="249.44"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-05-29: 2
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="423.54"
+                cy="257.22"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-06-01: 1
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="432.75"
+                cy="226.11"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-06-02: 5
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="441.97"
+                cy="249.44"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-06-03: 2
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="451.18"
+                cy="218.33"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-06-04: 6
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="460.39"
+                cy="241.67"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-06-05: 3
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="488.03"
+                cy="210.56"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-06-08: 7
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="497.25"
+                cy="210.56"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-06-09: 7
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="506.46"
+                cy="249.44"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-06-10: 2
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="515.67"
+                cy="210.56"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-06-11: 7
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="524.89"
+                cy="218.33"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-06-12: 6
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="534.10"
+                cy="257.22"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-06-13: 1
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="552.53"
+                cy="233.89"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-06-15: 4
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="561.74"
+                cy="241.67"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-06-16: 3
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="570.96"
+                cy="218.33"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-06-17: 6
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="580.17"
+                cy="241.67"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-06-18: 3
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="589.38"
+                cy="226.11"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-06-19: 5
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="598.60"
+                cy="249.44"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-06-20: 2
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="617.02"
+                cy="249.44"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-06-22: 2
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="626.24"
+                cy="241.67"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-06-23: 3
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="635.45"
+                cy="241.67"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-06-24: 3
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="644.66"
+                cy="210.56"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-06-25: 7
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="653.88"
+                cy="241.67"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-06-26: 3
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="663.09"
+                cy="233.89"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-06-27: 4
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="672.30"
+                cy="249.44"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-06-28: 2
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="690.73"
+                cy="241.67"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-06-30: 3
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="709.16"
+                cy="226.11"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-07-02: 5
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="718.37"
+                cy="257.22"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-07-03: 1
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="746.01"
+                cy="249.44"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-07-06: 2
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="764.44"
+                cy="249.44"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-07-08: 2
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="773.65"
+                cy="257.22"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-07-09: 1
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="810.51"
+                cy="233.89"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-07-13: 4
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="819.72"
+                cy="257.22"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-07-14: 1
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="828.93"
+                cy="249.44"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-07-15: 2
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="838.15"
+                cy="249.44"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-07-16: 2
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="847.36"
+                cy="233.89"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-07-17: 4
+                GitLab activities
+                </title>
+            </circle>
+            
+            <circle
+                cx="875.00"
+                cy="55.00"
+                r="3"
+                fill="#FFFFFF"
+            >
+                <title>
+                2026-07-20: 27
+                GitLab activities
+                </title>
+            </circle>
+            
+
+
+<text
+    x="55"
+    y="300"
+    fill="#8B949E"
+    font-family="Segoe UI, Arial"
+    font-size="10"
+>
+2026-04-22
+</text>
+
+
+<text
+    x="805"
+    y="300"
+    fill="#8B949E"
+    font-family="Segoe UI, Arial"
+    font-size="10"
+>
+2026-07-20
+</text>
+
+
+</svg>
