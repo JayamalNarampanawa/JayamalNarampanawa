@@ -31,7 +31,7 @@ GitLab Activity
     font-family="Segoe UI, Arial"
     font-size="11"
 >
-278 API-visible activities
+280 API-visible activities
 </text>
 
 
@@ -5207,11 +5207,11 @@ GitLab Activity
                 width="11"
                 height="11"
                 rx="2"
-                fill="#161B22"
+                fill="#1565C0"
             >
                 <title>
                 2026-07-24:
-                0 GitLab activities
+                2 GitLab activities
                 </title>
             </rect>
             
