@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/JayamalNarampanawa">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=27&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&height=80&lines=%E2%9A%A1+WELCOME+TO+MY+DIGITAL+UNIVERSE+%E2%9A%A1;%F0%9F%91%8B+Hey%2C+I'm+Jayamal+Narampanawa;%F0%9F%92%BB+Software+Engineer+%26+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+Machine+Learning+Explorer;%F0%9F%8C%90+IoT+%26+Intelligent+Systems+Builder;%F0%9F%93%B1+Mobile+Application+Developer;%F0%9F%8E%A8+UI%2FUX+%26+Futuristic+Interface+Enthusiast;%F0%9F%8E%B5+Musical+Artist+%26+Vocalist;%F0%9F%9A%80+Building+Technology+That+Creates+Impact"
+      src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=27&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&height=80&lines=%E2%9A%A1+WELCOME+TO+MY+DIGITAL+UNIVERSE+%E2%9A%A1;%F0%9F%91%8B+Hey%2C+I'm+Jayamal+Narampanawa;%F0%9F%92%BB+Software+Engineer+%26+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+Machine+Learning+Explorer;%F0%9F%8C%90+IoT+%26+Intelligent+Systems+Builder;%F0%9F%93%B1+Front-end+Developer;%F0%9F%8E%A8+UI%2FUX+%26+Futuristic+Interface+Enthusiast;%F0%9F%8E%B5+Musical+Artist+%26;%F0%9F%9A%80+Building+Technology+That+Creates+Impact"
       alt="Animated Introduction"
     />
   </a>
