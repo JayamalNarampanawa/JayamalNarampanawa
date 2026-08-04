@@ -113,13 +113,13 @@ Activity trend over the last 90 days
 
 
 <polygon
-    points="55,265 55.00,171.67 64.21,210.56 73.43,148.33 82.64,241.67 91.85,265.00 101.07,218.33 110.28,226.11 119.49,249.44 128.71,249.44 137.92,210.56 147.13,265.00 156.35,265.00 165.56,202.78 174.78,210.56 183.99,187.22 193.20,195.00 202.42,218.33 211.63,265.00 220.84,265.00 230.06,241.67 239.27,241.67 248.48,257.22 257.70,249.44 266.91,249.44 276.12,265.00 285.34,265.00 294.55,257.22 303.76,226.11 312.98,249.44 322.19,218.33 331.40,241.67 340.62,265.00 349.83,265.00 359.04,210.56 368.26,210.56 377.47,249.44 386.69,210.56 395.90,218.33 405.11,257.22 414.33,265.00 423.54,233.89 432.75,241.67 441.97,218.33 451.18,241.67 460.39,226.11 469.61,249.44 478.82,265.00 488.03,249.44 497.25,241.67 506.46,241.67 515.67,210.56 524.89,241.67 534.10,233.89 543.31,249.44 552.53,265.00 561.74,241.67 570.96,265.00 580.17,226.11 589.38,257.22 598.60,265.00 607.81,265.00 617.02,249.44 626.24,265.00 635.45,249.44 644.66,257.22 653.88,265.00 663.09,265.00 672.30,265.00 681.52,233.89 690.73,257.22 699.94,249.44 709.16,249.44 718.37,233.89 727.58,265.00 736.80,265.00 746.01,55.00 755.22,195.00 764.44,195.00 773.65,249.44 782.87,249.44 792.08,265.00 801.29,265.00 810.51,233.89 819.72,187.22 828.93,265.00 838.15,265.00 847.36,226.11 856.57,249.44 865.79,265.00 875.00,265.00 875,265"
+    points="55,265 55.00,210.56 64.21,148.33 73.43,241.67 82.64,265.00 91.85,218.33 101.07,226.11 110.28,249.44 119.49,249.44 128.71,210.56 137.92,265.00 147.13,265.00 156.35,202.78 165.56,210.56 174.78,187.22 183.99,195.00 193.20,218.33 202.42,265.00 211.63,265.00 220.84,241.67 230.06,241.67 239.27,257.22 248.48,249.44 257.70,249.44 266.91,265.00 276.12,265.00 285.34,257.22 294.55,226.11 303.76,249.44 312.98,218.33 322.19,241.67 331.40,265.00 340.62,265.00 349.83,210.56 359.04,210.56 368.26,249.44 377.47,210.56 386.69,218.33 395.90,257.22 405.11,265.00 414.33,233.89 423.54,241.67 432.75,218.33 441.97,241.67 451.18,226.11 460.39,249.44 469.61,265.00 478.82,249.44 488.03,241.67 497.25,241.67 506.46,210.56 515.67,241.67 524.89,233.89 534.10,249.44 543.31,265.00 552.53,241.67 561.74,265.00 570.96,226.11 580.17,257.22 589.38,265.00 598.60,265.00 607.81,249.44 617.02,265.00 626.24,249.44 635.45,257.22 644.66,265.00 653.88,265.00 663.09,265.00 672.30,233.89 681.52,257.22 690.73,249.44 699.94,249.44 709.16,233.89 718.37,265.00 727.58,265.00 736.80,55.00 746.01,195.00 755.22,195.00 764.44,249.44 773.65,249.44 782.87,265.00 792.08,265.00 801.29,233.89 810.51,187.22 819.72,265.00 828.93,265.00 838.15,226.11 847.36,249.44 856.57,265.00 865.79,265.00 875.00,265.00 875,265"
     fill="url(#areaGradient)"
 />
 
 
 <polyline
-    points="55.00,171.67 64.21,210.56 73.43,148.33 82.64,241.67 91.85,265.00 101.07,218.33 110.28,226.11 119.49,249.44 128.71,249.44 137.92,210.56 147.13,265.00 156.35,265.00 165.56,202.78 174.78,210.56 183.99,187.22 193.20,195.00 202.42,218.33 211.63,265.00 220.84,265.00 230.06,241.67 239.27,241.67 248.48,257.22 257.70,249.44 266.91,249.44 276.12,265.00 285.34,265.00 294.55,257.22 303.76,226.11 312.98,249.44 322.19,218.33 331.40,241.67 340.62,265.00 349.83,265.00 359.04,210.56 368.26,210.56 377.47,249.44 386.69,210.56 395.90,218.33 405.11,257.22 414.33,265.00 423.54,233.89 432.75,241.67 441.97,218.33 451.18,241.67 460.39,226.11 469.61,249.44 478.82,265.00 488.03,249.44 497.25,241.67 506.46,241.67 515.67,210.56 524.89,241.67 534.10,233.89 543.31,249.44 552.53,265.00 561.74,241.67 570.96,265.00 580.17,226.11 589.38,257.22 598.60,265.00 607.81,265.00 617.02,249.44 626.24,265.00 635.45,249.44 644.66,257.22 653.88,265.00 663.09,265.00 672.30,265.00 681.52,233.89 690.73,257.22 699.94,249.44 709.16,249.44 718.37,233.89 727.58,265.00 736.80,265.00 746.01,55.00 755.22,195.00 764.44,195.00 773.65,249.44 782.87,249.44 792.08,265.00 801.29,265.00 810.51,233.89 819.72,187.22 828.93,265.00 838.15,265.00 847.36,226.11 856.57,249.44 865.79,265.00 875.00,265.00"
+    points="55.00,210.56 64.21,148.33 73.43,241.67 82.64,265.00 91.85,218.33 101.07,226.11 110.28,249.44 119.49,249.44 128.71,210.56 137.92,265.00 147.13,265.00 156.35,202.78 165.56,210.56 174.78,187.22 183.99,195.00 193.20,218.33 202.42,265.00 211.63,265.00 220.84,241.67 230.06,241.67 239.27,257.22 248.48,249.44 257.70,249.44 266.91,265.00 276.12,265.00 285.34,257.22 294.55,226.11 303.76,249.44 312.98,218.33 322.19,241.67 331.40,265.00 340.62,265.00 349.83,210.56 359.04,210.56 368.26,249.44 377.47,210.56 386.69,218.33 395.90,257.22 405.11,265.00 414.33,233.89 423.54,241.67 432.75,218.33 441.97,241.67 451.18,226.11 460.39,249.44 469.61,265.00 478.82,249.44 488.03,241.67 497.25,241.67 506.46,210.56 515.67,241.67 524.89,233.89 534.10,249.44 543.31,265.00 552.53,241.67 561.74,265.00 570.96,226.11 580.17,257.22 589.38,265.00 598.60,265.00 607.81,249.44 617.02,265.00 626.24,249.44 635.45,257.22 644.66,265.00 653.88,265.00 663.09,265.00 672.30,233.89 681.52,257.22 690.73,249.44 699.94,249.44 709.16,233.89 718.37,265.00 727.58,265.00 736.80,55.00 746.01,195.00 755.22,195.00 764.44,249.44 773.65,249.44 782.87,265.00 792.08,265.00 801.29,233.89 810.51,187.22 819.72,265.00 828.93,265.00 838.15,226.11 847.36,249.44 856.57,265.00 865.79,265.00 875.00,265.00"
     fill="none"
     stroke="#1E88E5"
     stroke-width="3"
@@ -131,18 +131,6 @@ Activity trend over the last 90 days
 
             <circle
                 cx="55.00"
-                cy="171.67"
-                r="3"
-                fill="#FFFFFF"
-            >
-                <title>
-                2026-05-06: 12
-                GitLab activities
-                </title>
-            </circle>
-            
-            <circle
-                cx="64.21"
                 cy="210.56"
                 r="3"
                 fill="#FFFFFF"
@@ -154,7 +142,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="73.43"
+                cx="64.21"
                 cy="148.33"
                 r="3"
                 fill="#FFFFFF"
@@ -166,7 +154,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="82.64"
+                cx="73.43"
                 cy="241.67"
                 r="3"
                 fill="#FFFFFF"
@@ -178,7 +166,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="101.07"
+                cx="91.85"
                 cy="218.33"
                 r="3"
                 fill="#FFFFFF"
@@ -190,7 +178,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="110.28"
+                cx="101.07"
                 cy="226.11"
                 r="3"
                 fill="#FFFFFF"
@@ -202,7 +190,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="119.49"
+                cx="110.28"
                 cy="249.44"
                 r="3"
                 fill="#FFFFFF"
@@ -214,7 +202,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="128.71"
+                cx="119.49"
                 cy="249.44"
                 r="3"
                 fill="#FFFFFF"
@@ -226,7 +214,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="137.92"
+                cx="128.71"
                 cy="210.56"
                 r="3"
                 fill="#FFFFFF"
@@ -238,7 +226,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="165.56"
+                cx="156.35"
                 cy="202.78"
                 r="3"
                 fill="#FFFFFF"
@@ -250,7 +238,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="174.78"
+                cx="165.56"
                 cy="210.56"
                 r="3"
                 fill="#FFFFFF"
@@ -262,7 +250,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="183.99"
+                cx="174.78"
                 cy="187.22"
                 r="3"
                 fill="#FFFFFF"
@@ -274,7 +262,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="193.20"
+                cx="183.99"
                 cy="195.00"
                 r="3"
                 fill="#FFFFFF"
@@ -286,7 +274,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="202.42"
+                cx="193.20"
                 cy="218.33"
                 r="3"
                 fill="#FFFFFF"
@@ -298,7 +286,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="230.06"
+                cx="220.84"
                 cy="241.67"
                 r="3"
                 fill="#FFFFFF"
@@ -310,7 +298,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="239.27"
+                cx="230.06"
                 cy="241.67"
                 r="3"
                 fill="#FFFFFF"
@@ -322,7 +310,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="248.48"
+                cx="239.27"
                 cy="257.22"
                 r="3"
                 fill="#FFFFFF"
@@ -334,7 +322,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="257.70"
+                cx="248.48"
                 cy="249.44"
                 r="3"
                 fill="#FFFFFF"
@@ -346,7 +334,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="266.91"
+                cx="257.70"
                 cy="249.44"
                 r="3"
                 fill="#FFFFFF"
@@ -358,7 +346,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="294.55"
+                cx="285.34"
                 cy="257.22"
                 r="3"
                 fill="#FFFFFF"
@@ -370,7 +358,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="303.76"
+                cx="294.55"
                 cy="226.11"
                 r="3"
                 fill="#FFFFFF"
@@ -382,7 +370,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="312.98"
+                cx="303.76"
                 cy="249.44"
                 r="3"
                 fill="#FFFFFF"
@@ -394,7 +382,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="322.19"
+                cx="312.98"
                 cy="218.33"
                 r="3"
                 fill="#FFFFFF"
@@ -406,7 +394,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="331.40"
+                cx="322.19"
                 cy="241.67"
                 r="3"
                 fill="#FFFFFF"
@@ -418,7 +406,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="359.04"
+                cx="349.83"
                 cy="210.56"
                 r="3"
                 fill="#FFFFFF"
@@ -430,7 +418,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="368.26"
+                cx="359.04"
                 cy="210.56"
                 r="3"
                 fill="#FFFFFF"
@@ -442,7 +430,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="377.47"
+                cx="368.26"
                 cy="249.44"
                 r="3"
                 fill="#FFFFFF"
@@ -454,7 +442,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="386.69"
+                cx="377.47"
                 cy="210.56"
                 r="3"
                 fill="#FFFFFF"
@@ -466,7 +454,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="395.90"
+                cx="386.69"
                 cy="218.33"
                 r="3"
                 fill="#FFFFFF"
@@ -478,7 +466,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="405.11"
+                cx="395.90"
                 cy="257.22"
                 r="3"
                 fill="#FFFFFF"
@@ -490,7 +478,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="423.54"
+                cx="414.33"
                 cy="233.89"
                 r="3"
                 fill="#FFFFFF"
@@ -502,7 +490,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="432.75"
+                cx="423.54"
                 cy="241.67"
                 r="3"
                 fill="#FFFFFF"
@@ -514,7 +502,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="441.97"
+                cx="432.75"
                 cy="218.33"
                 r="3"
                 fill="#FFFFFF"
@@ -526,7 +514,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="451.18"
+                cx="441.97"
                 cy="241.67"
                 r="3"
                 fill="#FFFFFF"
@@ -538,7 +526,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="460.39"
+                cx="451.18"
                 cy="226.11"
                 r="3"
                 fill="#FFFFFF"
@@ -550,7 +538,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="469.61"
+                cx="460.39"
                 cy="249.44"
                 r="3"
                 fill="#FFFFFF"
@@ -562,7 +550,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="488.03"
+                cx="478.82"
                 cy="249.44"
                 r="3"
                 fill="#FFFFFF"
@@ -574,7 +562,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="497.25"
+                cx="488.03"
                 cy="241.67"
                 r="3"
                 fill="#FFFFFF"
@@ -586,7 +574,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="506.46"
+                cx="497.25"
                 cy="241.67"
                 r="3"
                 fill="#FFFFFF"
@@ -598,7 +586,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="515.67"
+                cx="506.46"
                 cy="210.56"
                 r="3"
                 fill="#FFFFFF"
@@ -610,7 +598,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="524.89"
+                cx="515.67"
                 cy="241.67"
                 r="3"
                 fill="#FFFFFF"
@@ -622,7 +610,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="534.10"
+                cx="524.89"
                 cy="233.89"
                 r="3"
                 fill="#FFFFFF"
@@ -634,7 +622,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="543.31"
+                cx="534.10"
                 cy="249.44"
                 r="3"
                 fill="#FFFFFF"
@@ -646,7 +634,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="561.74"
+                cx="552.53"
                 cy="241.67"
                 r="3"
                 fill="#FFFFFF"
@@ -658,7 +646,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="580.17"
+                cx="570.96"
                 cy="226.11"
                 r="3"
                 fill="#FFFFFF"
@@ -670,7 +658,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="589.38"
+                cx="580.17"
                 cy="257.22"
                 r="3"
                 fill="#FFFFFF"
@@ -682,7 +670,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="617.02"
+                cx="607.81"
                 cy="249.44"
                 r="3"
                 fill="#FFFFFF"
@@ -694,7 +682,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="635.45"
+                cx="626.24"
                 cy="249.44"
                 r="3"
                 fill="#FFFFFF"
@@ -706,7 +694,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="644.66"
+                cx="635.45"
                 cy="257.22"
                 r="3"
                 fill="#FFFFFF"
@@ -718,7 +706,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="681.52"
+                cx="672.30"
                 cy="233.89"
                 r="3"
                 fill="#FFFFFF"
@@ -730,7 +718,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="690.73"
+                cx="681.52"
                 cy="257.22"
                 r="3"
                 fill="#FFFFFF"
@@ -742,7 +730,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="699.94"
+                cx="690.73"
                 cy="249.44"
                 r="3"
                 fill="#FFFFFF"
@@ -754,7 +742,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="709.16"
+                cx="699.94"
                 cy="249.44"
                 r="3"
                 fill="#FFFFFF"
@@ -766,7 +754,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="718.37"
+                cx="709.16"
                 cy="233.89"
                 r="3"
                 fill="#FFFFFF"
@@ -778,7 +766,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="746.01"
+                cx="736.80"
                 cy="55.00"
                 r="3"
                 fill="#FFFFFF"
@@ -790,7 +778,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="755.22"
+                cx="746.01"
                 cy="195.00"
                 r="3"
                 fill="#FFFFFF"
@@ -802,7 +790,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="764.44"
+                cx="755.22"
                 cy="195.00"
                 r="3"
                 fill="#FFFFFF"
@@ -814,7 +802,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="773.65"
+                cx="764.44"
                 cy="249.44"
                 r="3"
                 fill="#FFFFFF"
@@ -826,7 +814,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="782.87"
+                cx="773.65"
                 cy="249.44"
                 r="3"
                 fill="#FFFFFF"
@@ -838,7 +826,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="810.51"
+                cx="801.29"
                 cy="233.89"
                 r="3"
                 fill="#FFFFFF"
@@ -850,7 +838,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="819.72"
+                cx="810.51"
                 cy="187.22"
                 r="3"
                 fill="#FFFFFF"
@@ -862,7 +850,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="847.36"
+                cx="838.15"
                 cy="226.11"
                 r="3"
                 fill="#FFFFFF"
@@ -874,7 +862,7 @@ Activity trend over the last 90 days
             </circle>
             
             <circle
-                cx="856.57"
+                cx="847.36"
                 cy="249.44"
                 r="3"
                 fill="#FFFFFF"
@@ -894,7 +882,7 @@ Activity trend over the last 90 days
     font-family="Segoe UI, Arial"
     font-size="10"
 >
-2026-05-06
+2026-05-07
 </text>
 
 
@@ -905,7 +893,7 @@ Activity trend over the last 90 days
     font-family="Segoe UI, Arial"
     font-size="10"
 >
-2026-08-03
+2026-08-04
 </text>
 
 
